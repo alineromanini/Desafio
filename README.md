@@ -12,4 +12,4 @@ Após isso, para criar as tabelas, usa-se "create_table.php" e "create_table2.ph
 
 Uma tabela refere as TASKS que vão ser criadas na dashboard.
 
-Outra tabela se refera ao USUARIO e SENHA para acesso.
+Outra tabela se refere ao USUARIO e SENHA para acesso.
